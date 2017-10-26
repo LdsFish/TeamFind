@@ -1,0 +1,19 @@
+{
+  "name": "TeamFind",
+  "version": "0.1.0",
+  "description": "find team",
+  "main": "lib/model.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LdsFish/TeamFind.git"
+  },
+  "license": "MIT"
+}
