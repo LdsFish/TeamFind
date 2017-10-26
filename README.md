@@ -5,7 +5,7 @@
 
 ## 安裝
 ```
-git clone https://github.com/istar0me/TeamFind.git
+git clone https://github.com/LdsFish/TeamFind.git
 cd TeamFind
 npm install
 ```
