@@ -1,6 +1,6 @@
 {
   "name": "EventFinder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Input time and location, it will return event name, time and location",
   "main": "lib/findEvent.js",
   "dependencies": {
