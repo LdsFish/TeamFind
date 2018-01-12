@@ -2,7 +2,7 @@
 var expect = require('chai').expect
 
 describe('findEvent', function () {
-    var M = require('../lib/findEvent')
+    var M = require('../lib/findEventLib')
 
     describe('findEvent', function () {
         it("findEvent('20170101金門大學')).to.equal('跨欄比賽, 20170101, 金門大學')", function () {
